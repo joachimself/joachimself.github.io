@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Salut
+# Bonjour
 
 Vous souhaitez me contacter ?  
 Si tel est le cas, utilisez le formulaire ci-dessous.  
