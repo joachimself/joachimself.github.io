@@ -5,7 +5,7 @@ title: Home
 
 # Salut
 
-Ceci est une page, celle de Joachim MD.  
+Ceci est une belle page parce que c'est la mienne. :-)  
 C'est tout pour le moment.  
 À bientôt peut-être !  
 
