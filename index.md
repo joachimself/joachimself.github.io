@@ -6,7 +6,7 @@ title: Home
 # Salut
 
 Vous souhaitez me contacter ?  
-Si tel est le cas, utilisez le formulaire ci-dessous.
+Si tel est le cas, utilisez le formulaire ci-dessous.  
 À bientôt !  
 
   
