@@ -5,9 +5,9 @@ title: Home
 
 # Salut
 
-Ceci est une belle page parce que c'est la mienne :-)  
-C'est tout pour le moment.  
-À bientôt peut-être !  
+Vous souhaitez me contacter ?  
+Si tel est le cas, utilisez le formulaire ci-dessous.
+À bientôt !  
 
   
 {% include form.html %}
