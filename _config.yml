@@ -1,7 +1,7 @@
 # site settings
 
 title:          Joachim MD
-tagline:        Bienvenue sur cette page vide !
+tagline:        Bienvenue sur ma page perso !
 url:            https://joachimself.github.io
 baseurl:        ""
 permalink:      pretty
@@ -10,7 +10,7 @@ repo:           https://github.com/joachimself/joachimself.github.io # https://g
 # author settings
 
 author:
-  name:         Joachim
+  name:         Joachim MD
   email:        jomd@duck.com
 photo:          # /assets/photo.jpg
 
