@@ -41,25 +41,6 @@
     }
   }
 
-  @media screen and (max-width: 768px) {
-  .particles-title {
-    font-size: 3em;
-  }
-
-  .particles-subtitle {
-    font-size: 2em;
-  }
-
-  .particles-icon {
-    margin: 0 1em;
-
-    svg {
-      -webkit-transform: scale(2.5);
-      transform: scale(2.5);
-    }
-  }
-
-
   .particles-scroll svg {
     -webkit-transform: scale(3.5);
     transform: scale(3.5);
