@@ -1,16 +1,16 @@
 # site settings
 
-title:          Joachim Murat-Delfau
-tagline:        Bienvenue !
-url:            https://joachimself.github.io
+title:          Jo@chim : Blog sans blague 
+tagline:        Hello !
+url:            https://joarobase.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/joachimself/joachimself.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/joarobase/joarobase.github.io # https://github.com/username/username.github.io
 
 # author settings
 
 author:
-  name:         Joachim MD
+  name:         Jo@chim
   email:        jomd@duck.com
 photo:          # /assets/photo.jpg
 
