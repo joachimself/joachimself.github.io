@@ -1,7 +1,7 @@
 # site settings
 
-title:          Joarobase
-tagline:        Blog sans blague
+title:          "Jo@chim"
+tagline:        Joarobase, blog sans blague
 url:            https://joarobase.github.io
 baseurl:        ""
 permalink:      pretty
