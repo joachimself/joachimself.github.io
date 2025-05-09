@@ -1,16 +1,16 @@
 # site settings
 
-title:          "Jo@chim"
-tagline:        Joarobase, blog sans blague
-url:            https://joarobase.github.io
+title:          Matchless
+tagline:        Soon, stay tuned !
+url:            https://matchless.github.io
 baseurl:        ""
 permalink:      pretty
-repo:           https://github.com/joarobase/joarobase.github.io # https://github.com/username/username.github.io
+repo:           https://github.com/matchless-fr/matchless-fr.github.io # https://github.com/username/username.github.io
 
 # author settings
 
 author:
-  name:         Jo@chim
+  name:         Johack
   email:        jomd@duck.com
 photo:          # /assets/photo.jpg
 
