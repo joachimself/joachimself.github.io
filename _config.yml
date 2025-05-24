@@ -3,8 +3,8 @@ title: Matchless
 subtitle: by Jo
 email: jomd@duck.com
 description: Portfolio
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "matchless-fr.github.io" # the base hostname & protocol for your site
 author: Jo
 # street_address: 1234 Somewhere Road
 # city: Nashville
@@ -22,7 +22,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/matchless.fr
+  GitHub: https://github.com/matchless-fr
   GitLab:
   Google-Plus: 
   Instagram:
