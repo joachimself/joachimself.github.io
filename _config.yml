@@ -3,7 +3,7 @@ title: Matchless
 subtitle: by Jo
 email: jomd@duck.com
 description: Portfolio
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "matchless-fr.github.io" # the base hostname & protocol for your site
 author: Jo
 # street_address: 1234 Somewhere Road
