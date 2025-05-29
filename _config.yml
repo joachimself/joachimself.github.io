@@ -1,10 +1,10 @@
 # site settings
-title: Matchless
-subtitle: Photo
+title: Photolib
+subtitle:
 email: jomd@duck.com
 description: Collections
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "matchless-fr.github.io" # the base hostname & protocol for your site
+url: "photolib.github.io" # the base hostname & protocol for your site
 author: Jo
 # street_address: 1234 Somewhere Road
 # city: Nashville
@@ -22,7 +22,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/matchless-fr
+  GitHub: https://github.com/photolib
   GitLab:
   Google-Plus: 
   Instagram:
