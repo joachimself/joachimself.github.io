@@ -1,6 +1,6 @@
 # site settings
 title: Nicephore
-subtitle:.org
+subtitle: ".org"
 email: jomd@duck.com
 description: Collections
 baseurl: "" # the subpath of your site, e.g. /blog
