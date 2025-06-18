@@ -1,10 +1,10 @@
 # site settings
-title: Photolib
-subtitle: ".org"
+title: Moto Mobilis
+subtitle: "De la moto et des photos"
 email:
 description: Collections
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "photolib.github.io" # the base hostname & protocol for your site
+url: "motomobilis.github.io" # the base hostname & protocol for your site
 author: Jo
 # street_address: 1234 Somewhere Road
 # city: Nashville
