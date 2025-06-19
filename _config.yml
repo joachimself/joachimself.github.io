@@ -1,10 +1,10 @@
 # site settings
-title: Moto Mobilis
-subtitle: "De la moto et des photos"
+title: Moto Sapiens
+subtitle: ".FR"
 email:
 description: Collections
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "motomobilis.github.io" # the base hostname & protocol for your site
+url: "motosapiensfr.github.io" # the base hostname & protocol for your site
 author: Jo
 # street_address: 1234 Somewhere Road
 # city: Nashville
