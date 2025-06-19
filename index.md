@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Un peu de Jo, beaucoup de photo'
+landing-title: 'Moto, Photo & Jo'
 description: null
 image: null
 author: null
