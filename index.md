@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Moto, Photo & Jo'
+landing-title: 'Moto, Photo, Jo, etc.'
 description: null
 image: null
 author: null
