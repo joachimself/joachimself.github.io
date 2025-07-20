@@ -1,10 +1,10 @@
 # site settings
-title: Moto Sapiens
-subtitle: ".FR"
+title: Joachimself
+subtitle: "Joachim lui-même !"
 email:
 description: Collections
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "motosapiensfr.github.io" # the base hostname & protocol for your site
+url: "joachimself.github.io" # the base hostname & protocol for your site
 author: Jo
 # street_address: 1234 Somewhere Road
 # city: Nashville
@@ -22,7 +22,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/motomobilis
+  GitHub: https://github.com/joachimself
   GitLab:
   Google-Plus: 
   Instagram:
